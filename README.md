@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavkrn" alt="abhinavkrn" /></a> </p>
 
-- 🔭 I’m currently working on **Levelling up my programming skill**
+- 🔭 I’m currently working on **Levelling up my programming skills**
 
 - 🌱 I’m currently learning **Gen AI,Quantum Computing and full Stack dev**
 
